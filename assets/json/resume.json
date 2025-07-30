@@ -1,200 +1,199 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Preben M. Ness",
+    "label": "AI Researcher",
+    "picture": "https://example.com/photo.jpg",
+    "email": "preben.monteiro@gmail.com",
+    "phone": "",
+    "website": "https://prebenness.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Oslo",
+      "countryCode": "Norway",
+      "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": [],
+    "url": "https://prebenness.github.io/"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "company": "Simula Research Laboratory",
+      "position": "PhD Student",
+      "website": "https://www.simula.no/",
+      "startDate": "2022-09",
+      "summary": "",
+      "highlights": [
+        "Researching causal representation learning as means of improving robustness and generalisation capabilities of Neural Network models",
+        "Designing and building novel causal disentanglement models as well as implementing and testing existing state-of-the-art models in the field"
+      ],
+      "name": "Simula Research Laboratory",
+      "location": "Oslo, Norway",
+      "url": "https://www.simula.no/"
+    },
+    {
+      "name": "Firi AS",
+      "position": "AI Researcher",
+      "startDate": "2021-07",
+      "endDate": "2022-08",
+      "location": "Oslo, Norway",
+      "url": "https://firi.com",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Built, trained, and tested a variety of NN architectures, including bespoke Transformers and Attention-based Graph Neural Networks for predictive risk modelling",
+        "Designed and implemented from scratch a microservice backend architecture to underpin efficient and scalable data extraction, processing, and feature engineering"
+      ]
+    },
+    {
+      "name": "AIUS",
+      "position": "Co-Founder, CTO",
+      "startDate": "2019-09",
+      "endDate": "2021-04",
+      "location": "London, UK",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Designed and implemented ML-based document and sequence classification models, and pitched these to our non-technical customers",
+        "Built back-end API and database schemas for our document management software, using Apollo GraphQL and MongoDB"
+      ]
+    },
+    {
+      "name": "Techspert",
+      "position": "Data Science Intern",
+      "startDate": "2019-06",
+      "endDate": "2019-09",
+      "location": "Cambridge, UK",
+      "url": "https://techspert.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Developed a collection of multilabel classifiers using Tensorflow / Keras, for categorising and filtering incoming company emails",
+        "Built pre-processing pipeline to clean, anonymise, and build feature vectors from training data"
+      ]
+    },
+    {
+      "name": "University of Cambridge",
+      "position": "Undergraduate Researcher",
+      "startDate": "2018-06",
+      "endDate": "2018-09",
+      "location": "Cambridge, UK",
+      "url": "https://mi.eng.cam.ac.uk/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Developed and modified lattice-based RNN models for improved speech recognition confidence scores",
+        "Designed and built automated system for grade-appropriate feedback to English learners. Later released as part of the app \"Sandi\""
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Cambridge University 3D-Printing Society",
+      "position": "Co-Founder, Vice President",
+      "website": "https://www.cambridgesu.co.uk/organisation/cu3d/",
+      "startDate": "2016-09",
+      "endDate": "2019-06",
+      "summary": "Project leader in collaboration with Cambridge-based charity REMAP to upgrade remote-controlled archery turret for users with movement disabilities",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Cambridge",
+      "area": "Information and Computer Engineering",
+      "studyType": "M.Eng.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "gpa": "",
+      "courses": [
+        "Probabilistic Machine Learning",
+        "Deep Learning",
+        "Computer Vision"
+      ],
+      "score": "Merit"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "King's Scholar",
+      "date": "2016-10",
+      "awarder": "King's College Cambridge",
+      "summary": "Received in 2016 and 2017 for excellent exam results"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models",
+      "publisher": "Proceedings of the 32nd ACM International Conference on Information and Knowledge Management",
+      "releaseDate": "2023-10",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3583780.3614960",
+      "summary": "Investigated relationship between causal disentanglement and robustness in state-of-the-art models"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Increasing context for estimating confidence scores in automatic speech recognition",
+      "publisher": "IEEE/ACM Transactions on Audio, Speech, and Language Processing",
+      "releaseDate": "2022-03",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9739834",
+      "summary": "Suggested, implemented and wrote up novel approach for Confusion Network to sequence aligment using a soft Levenshtein loss"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Bi-directional Lattice Recurrent Neural Networks for Confidence Estimation",
+      "publisher": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "releaseDate": "2019-05-12",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8683488",
+      "summary": "Conducted experiments (TensorFlow and PyTorch) and co-authored research paper, in conjunction with final-year academic commitments"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Javascript",
+        "C++"
+      ]
+    },
+    {
+      "name": "Technology",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Tensorflow",
+        "PyTorch",
+        "AWS (Sagemaker, EC2, ECS)"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "React",
+        "CSS",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Norwegian",
+      "fluency": "Native Speaker"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": []
 }
