@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - prebenness
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - prebenness/flexible_disentanglement_metrics
+  - prebenness/causal_disentanglement_robustness
+  - prebenness/DICE_representations
+  - prebenness/CAMA_representations
+  - prebenness/CausalAdv_representations
+  - prebenness/CaaM_representations
+  - prebenness/peridynamics
+  - FCD
+  - prebenness/CONTA_representations

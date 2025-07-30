@@ -141,7 +141,7 @@
     {
       "name": "Bi-directional Lattice Recurrent Neural Networks for Confidence Estimation",
       "publisher": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-      "releaseDate": "2019-05-12",
+      "releaseDate": "2019-05",
       "url": "https://ieeexplore.ieee.org/abstract/document/8683488",
       "summary": "Conducted experiments (TensorFlow and PyTorch) and co-authored research paper, in conjunction with final-year academic commitments"
     }
